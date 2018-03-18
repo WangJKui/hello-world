@@ -4,8 +4,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//分支dev
-		//qwe123
+		System.out.println("master");
+		System.out.println("master");
 	}
 
 }
